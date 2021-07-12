@@ -32,6 +32,8 @@ The output will be saved as a csv file:
 
 Example:
 
-![data](createddf.png)
+![data](outputdf.png)
 
-#### Readme is yet to be completed.
+## Thank you guys!!!
+## Feel Free to fork and add features
+# Happy coding!!!
